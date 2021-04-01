@@ -1,0 +1,9 @@
+C:\Users\Anti\source\repos\smtpEmailSender\smtpEmailSender\bin\Debug\smtpEmailSender.exe.config
+C:\Users\Anti\source\repos\smtpEmailSender\smtpEmailSender\bin\Debug\smtpEmailSender.exe
+C:\Users\Anti\source\repos\smtpEmailSender\smtpEmailSender\bin\Debug\smtpEmailSender.pdb
+C:\Users\Anti\source\repos\smtpEmailSender\smtpEmailSender\obj\Debug\smtpEmailSender.csprojAssemblyReference.cache
+C:\Users\Anti\source\repos\smtpEmailSender\smtpEmailSender\obj\Debug\smtpEmailSender.Form1.resources
+C:\Users\Anti\source\repos\smtpEmailSender\smtpEmailSender\obj\Debug\smtpEmailSender.Properties.Resources.resources
+C:\Users\Anti\source\repos\smtpEmailSender\smtpEmailSender\obj\Debug\smtpEmailSender.csproj.GenerateResource.cache
+C:\Users\Anti\source\repos\smtpEmailSender\smtpEmailSender\obj\Debug\smtpEmailSender.exe
+C:\Users\Anti\source\repos\smtpEmailSender\smtpEmailSender\obj\Debug\smtpEmailSender.pdb
